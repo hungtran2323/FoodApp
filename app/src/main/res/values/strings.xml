@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BTLThAdr</string>
+
+<!--    Intro activity-->
+    <string name="welcome_title">Welcome To Food App</string>
+    <string name="slogan">Low cost. High quality</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
 </resources>
